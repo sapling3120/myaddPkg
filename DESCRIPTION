@@ -1,7 +1,7 @@
 Package: myaddPkg
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.6.0
+Version: 0.8.0
 Author: liudan
 Maintainer: sapling3120 <1794547296@qq.com>
 Description: More about what it does (maybe more than one line)
